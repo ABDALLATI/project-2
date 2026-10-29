@@ -25,7 +25,7 @@ ul{
     margin: 0 auto 0 auto;
 }
 /* small screen */
-@media(min-width:767px){
+@media(min-width:768px){
     .container{
         width:750px;
     }
